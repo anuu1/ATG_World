@@ -2,9 +2,9 @@ export const articles = [
     {
         title: 'What if famous brands had regular fonts? Meet RegulaBrands!',
         description: 'I have worked in UX for the better part of a decade. From now on, I plan to reinforce technology in India. For me, discussion is about expanding to new horizons. I would love to teach and learn in the process.',
-        author: 'Sarthak Kamra',
+        author: 'Aniket',
         imageURL: '/postImages/Article.png',
-        authorIconURL: '/authorIcons/Sarthak_Kamra.png',
+        authorIconURL: '/authorIcons/Aniket.png',
         views: 1400,
     },
 ];
@@ -13,9 +13,9 @@ export const educational_posts = [
     {
         title: 'Tax Benefits for Investment under National Pension Scheme launched by Government',
         description: 'I have worked in UX for the better part of a decade. From now on, I plan to reinforce technology in India. For me, discussion is about expanding to new horizons. I would love to teach and learn in the process.',
-        author: 'Sarah West',
+        author: 'Anamika',
         imageURL: '/postImages/Educational_Post.png',
-        authorIconURL: 'authorIcons/Sarah_West.png',
+        authorIconURL: 'authorIcons/Anamika.png',
         views: 1400,
     }
 ];
@@ -27,8 +27,8 @@ export const events = [
         location: 'Ahmedabad, India',
         link: '',
         imageURL: '/postImages/Event.png',
-        author: 'Ronal Jones',
-        authorIconURL: '/authorIcons/Ronal_Jones.png',
+        author: 'Mia',
+        authorIconURL: '/authorIcons/Mia.png',
         views: 1400,
     }
 ];
@@ -40,8 +40,8 @@ export const jobs = [
         location: 'Noida, India',
         imageURL: '',
         link: '',
-        author: 'Joseph Gray',
-        authorIconURL: '/authorIcons/Joseph_Gray.png',
+        author: 'Deeksha',
+        authorIconURL: '/authorIcons/Deeksha.png',
         views: 1400,
     }
 ];
