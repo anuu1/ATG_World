@@ -1,7 +1,7 @@
 
 # ATGWorld Landing Page
 
-The ATGWorld landing page, created as part of an assignment task, features a seamless and user-friendly interface. It includes a prominently placed search bar for quick content discovery, an intuitive login modal for easy authentication, and a well-organized navigation bar for efficient browsing and filtering of posts. These elements combine to provide a smooth and engaging user experience, allowing visitors to easily access and explore the content on ATGWorld.
+The ATGWorld landing page, developed as part of an assignment, features an intuitive and sleek interface. At its core is a prominently positioned search bar for fast and efficient content discovery. The login modal offers a straightforward authentication process, while the navigation bar is well-structured, allowing users to easily browse and filter through posts. Together, these elements create a smooth and engaging experience, enabling users to navigate and explore the ATGWorld content effortlessly.
 
 
 
@@ -11,17 +11,14 @@ The ATGWorld landing page, created as part of an assignment task, features a sea
 
 
 ## Demo
+https://atgworldlandingpage.netlify.app
 
-https://atg-world-landing-page.vercel.app/
+
 
 
 ## Installation
 
 Install landing page with npm and GitBash
-
-```bash
-  git clone https://github.com/DebdipWritesCode/ATGWorldLandingPage.git
-```
 
 ```bash
   npm install
