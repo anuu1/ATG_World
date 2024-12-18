@@ -29,7 +29,9 @@ Install landing page with npm and GitBash
 ## Screenshots
 
 ![Hero and Navbar](./src/assets/readme-images/1.png)
-![Posts](./src/assets/readme-images/2.png)
+![Posts](./src/assets/readme-images/5.png)
+![Posts](./src/assets/readme-images/6.png)
+
 ![Signup and Login](./src/assets/readme-images/3.png)
 ![Signup and Login](./src/assets/readme-images/4.png)
 
