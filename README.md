@@ -32,7 +32,7 @@ Install landing page with npm and GitBash
 ![Posts](./src/assets/readme-images/5.png)
 ![Posts](./src/assets/readme-images/6.png)
 
-![Signup and Login](./src/assets/readme-images/3.png)
+
 ![Signup and Login](./src/assets/readme-images/4.png)
 
 ![Signup and Login](./src/assets/readme-images/image.png)
